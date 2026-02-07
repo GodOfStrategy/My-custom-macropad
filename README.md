@@ -1,4 +1,4 @@
-<img width="1772" height="565" alt="image" src="https://github.com/user-attachments/assets/76b4c442-6375-4b44-8f4b-fbf51a4b62b1" /># My-custom-macropad
+# My-custom-macropad
 Made with and for Blueprint @ Hackclub. It is my personal hackpad, with the keys W,A,S,D with various utility.
 
 My hackpad uses:
