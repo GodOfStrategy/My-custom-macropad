@@ -14,3 +14,5 @@ Here is the PCB:
 I modeled my Case for it in Fusion 360, I kept it open from two sides for future potential debugging, access and easy heat dissapation.
 <img width="484" height="367" alt="Screenshot 2026-02-07 132807" src="https://github.com/user-attachments/assets/cc242354-3522-4ff9-9bb9-70ebe4860a21" />
 
+Here is the assembled 3d model of my case:
+<img width="714" height="454" alt="Screenshot 2026-02-20 203354" src="https://github.com/user-attachments/assets/882000ea-2410-45b6-b912-9d4a9966f243" />
