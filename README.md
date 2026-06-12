@@ -23,4 +23,5 @@ The unassembled case:
 <img width="1920" height="1020" alt="Screenshot 2026-04-03 195919" src="https://github.com/user-attachments/assets/4ff5380b-45f4-4f5c-9273-461024937081" />
 <img width="1920" height="1020" alt="Screenshot 2026-04-03 195913" src="https://github.com/user-attachments/assets/0d60973a-35bc-4cf5-b07c-34b3b5a3d832" />
 
+Check out my demonstration here :https://youtu.be/AzQq92xHFlM
 Feel free to find my firmware, CAD files, KiCad files(PCB & Schematics), and my production files(GBR).
